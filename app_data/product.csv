@@ -1,0 +1,33 @@
+sku_id,product_name,product_type,product_line,form,need_group,size_g,size_ml,n_components,list_price,base_price,flag_campaign_plus,flag_voucher_xtra,flag_cfv,region_tag,source_row
+1734569267489441027,Kem Dưỡng Ẩm OLAY Super Collagen Peptides (40G ),single,Super Collagen Peptides,cream,anti_aging,40,0,1,839000,541000,1,1,0,Toàn quốc,2
+1734569237822801155,Serum OLAY Ultra Firming Giúp Da Săn Chắc & Mịn Màng (30ML),single,Ultra Firming,serum,anti_aging,0,30,1,839000,541000,1,1,0,Toàn quốc,3
+1734365637953225987,[Miền Bắc] Combo 2: Kem Dưỡng Ẩm OLAY Super Collagen Peptides + Serum OLAY Ultra Firming Giúp Da Săn Chắc & Mịn Màng (40G + 30ML),combo,Super Collagen Peptides + Ultra Firming,combo,anti_aging,40,30,2,1678000,1079000,1,1,0,Miền Bắc,4
+1734365630081631491,[Miền Bắc] OLay Super Serum 5 Dưỡng Chất Trong 1 - 30ML,single,Super Serum 5in1,serum,anti_aging,0,30,1,899000,820000,1,1,0,Miền Bắc,5
+1734365630523081987,Combo 2: Kem Dưỡng Ẩm Ban Ngày OLAY LUMINOUS + Super Serum 5IN1 (50G + 30ML),combo,Luminous + Super Serum 5in1,combo,brightening,50,30,2,1523000,980000,1,1,0,Toàn quốc,6
+1734365631324980483,Combo 2: Kem Dưỡng Ẩm Ban Đêm OLAY LUMINOUS + Super Serum 5IN1 (50G + 30ML),combo,Luminous + Super Serum 5in1,combo,brightening,50,30,2,1523000,980000,1,1,0,Toàn quốc,7
+1734365631810274563,[Miền Bắc] Combo 2: Super Serum 5IN1 + Kem Dưỡng Ẩm Ban Ngày OLAY Total Effects (50G + 30ML),combo,Super Serum 5in1 + Total Effects,combo,anti_aging,50,30,2,1594000,1042000,1,1,0,Miền Bắc,8
+1734365658742424835,[Miền Bắc] Combo 2: Super Serum 5IN1 + Kem Dưỡng Ẩm Ban Đêm OLAY Total Effects (50G + 30ML),combo,Super Serum 5in1 + Total Effects,combo,anti_aging,50,30,2,1594000,1042000,1,1,0,Miền Bắc,9
+1734365670060360963,"[Miền Bắc] Combo 2: Super Serum 5IN1 + Kem Dưỡng Ẩm Sáng Da, Mờ Thâm Mụn OLAY LUMINOUS NIACINAMIDE AHA (50G + 30ML)",combo,Super Serum 5in1 + Luminous Niacinamide AHA,combo,brightening,50,30,2,1900000,1197603,1,1,0,Miền Bắc,10
+1734365709837698307,[Miền Bắc] Combo 2: Super Serum 5IN1 + Kem Dưỡng OLAY Luminous Niacinamide & Vitamin C (50G + 30ML),combo,Super Serum 5in1 + Luminous Niacinamide VitC,combo,brightening,50,30,2,1900000,1197603,1,1,0,Miền Bắc,11
+1734365648063923459,[Miền Bắc] Combo 2: Super Serum 5IN1 + Kem Dưỡng Ẩm Ban Đêm OLAY RETINOL24 (50G + 30ML),combo,Super Serum 5in1 + Retinol24,combo,anti_aging,50,30,2,1900000,1197603,1,1,0,Miền Bắc,12
+1734365663560959235,[Miền Bắc] Combo 2: Super Serum 5IN1 + Kem Dưỡng Ẩm Ban Ngày OLAY REGENERIST 50G (50G + 30ML),combo,Super Serum 5in1 + Regenerist,combo,anti_aging,50,30,2,1798000,1135000,1,1,0,Miền Bắc,13
+1734365664350340355,[Miền Bắc] Combo 2: Super Serum 5IN1 + Kem Dưỡng Ẩm Ban Đêm OLAY REGENERIST 50G (50G + 30ML),combo,Super Serum 5in1 + Regenerist,combo,anti_aging,50,30,2,1798000,1135000,1,1,0,Miền Bắc,14
+1734365577143747843,[Miền Bắc] Kem Dưỡng Ẩm Ban Đêm Phục Hồi & Làm Chậm 7 Dấu Hiệu Lão Hóa OLAY TOTAL EFFECTS 50G,single,Total Effects,cream_night,anti_aging,50,0,1,410000,287000,1,1,0,Miền Bắc,15
+1734365584002745603,[Miền Bắc] Kem Dưỡng Ẩm Ban Ngày Phục Hồi & Làm Chậm 7 Dấu Hiệu Lão Hóa SPF 15 OLAY TOTAL EFFECTS 50G,single,Total Effects,cream_day,anti_aging,50,0,1,410000,287000,1,1,0,Miền Bắc,16
+1734365578740270339,[Miền Bắc] Combo 2: Kem Dưỡng Ẩm Ngày & Đêm Phục Hồi & Làm Chậm 7 Dấu Hiệu Lão OLAY TOTAL EFFECTS 50G X2,combo,Total Effects,combo,anti_aging,100,0,2,820000,571000,1,1,0,Miền Bắc,17
+1734365579424597251,Kem Dưỡng Ẩm Ban Ngày Sáng Da Ngăn Tia UV SPF15 PA++ OLAY LUMINOUS 50G,single,Luminous,cream_day,brightening,50,0,1,347000,225000,1,1,0,Toàn quốc,18
+1734365579784193283,Kem Dưỡng Ẩm Ban Đêm Sáng Da OLAY LUMINOUS 50G,single,Luminous,cream_night,brightening,50,0,1,347000,225000,1,1,0,Toàn quốc,19
+1734569240809145603,[Miền Bắc] Combo 2: Kem Dưỡng Ẩm Ngày & Đêm Dưỡng Sáng Da OLAY LUMINOUS 50G X2,combo,Luminous,combo,brightening,100,0,2,694000,447000,1,1,0,Miền Bắc,20
+1734365594367001859,"[Miền Bắc] Kem Dưỡng Ẩm Sáng Da, Mờ Thâm Mụn OLAY LUMINOUS NIACINAMIDE AHA 50G",single,Luminous Niacinamide AHA,cream,brightening,50,0,1,659000,418000,1,1,0,Miền Bắc,21
+1734365581732054275,[Miền Bắc] Super Serum Dưỡng OLAY LUMINOUS NIACINAMIDE AHA 30ML,single,Luminous Niacinamide AHA,serum,brightening,0,30,1,659000,418000,1,1,0,Miền Bắc,22
+1734365611330143491,"[Miền Bắc] Kem Dưỡng OLAY Luminous Niacinamide & Vitamin C Giúp Mờ Vết Thâm, Đốm Nâu, Dưỡng Sáng Da 50G",single,Luminous Niacinamide VitC,cream,brightening,50,0,1,659000,418000,1,1,0,Miền Bắc,24
+1734365612874433795,"[Miền Bắc] Super Serum OLAY Luminous Niacinamide & Vitamin C Giúp Mờ Vết Thâm, Đốm Nâu, Dưỡng Sáng Da 30ML",single,Luminous Niacinamide VitC,serum,brightening,0,30,1,659000,418000,1,1,0,Miền Bắc,25
+1734365609557853443,"[Miền Bắc] Combo 2: Kem Dưỡng Và Super Serum OLAY Luminous Niacinamide & Vitamin C Giúp Mờ Vết Thâm, Đốm Nâu, Dưỡng Sáng Da (50G+30ML)",combo,Luminous Niacinamide VitC,combo,brightening,50,30,2,1440000,833000,1,1,0,Miền Bắc,26
+1734365615002977539,[Miền Bắc] Kem Dưỡng Ẩm Ban Đêm OLAY RETINOL24 Giúp Trẻ Hóa Da & Mờ Nếp Nhăn 50G,single,Retinol24,cream_night,anti_aging,50,0,1,418000,418000,1,1,0,Miền Bắc,27
+1734365470027580675,[Miền Bắc] Serum OLAY RETINOL24 Giúp Trẻ Hóa Da & Mờ Nếp Nhăn 30ML,single,Retinol24,serum,anti_aging,0,30,1,659000,418000,1,1,0,Miền Bắc,28
+1734365648603088131,[Miền Bắc] Combo 2: Kem Dưỡng Ẩm Ban Đêm + Serum OLAY RETINOL24 Giúp Trẻ Hóa Da & Mờ Nếp Nhăn (50G + 30ML),combo,Retinol24,combo,anti_aging,50,30,2,1318000,833000,1,1,0,Miền Bắc,29
+1734365616006989059,"[Miền Bắc] Kem Dưỡng Ẩm Ban Đêm Căng Mướt, Sáng Khỏe & Phục Hồi Dấu Hiệu Lão Hóa OLAY REGENERIST 50G",single,Regenerist,cream_night,anti_aging,50,0,1,407000,380000,1,1,0,Miền Bắc,30
+1734365635350004995,"[Miền Bắc] Kem Dưỡng Ẩm Ban Ngày Căng Mướt, Sáng Khỏe & Phục Hồi Dấu Hiệu Lão Hóa OLAY REGENERIST 50G",single,Regenerist,cream_day,anti_aging,50,0,1,599000,380000,1,1,0,Miền Bắc,31
+1734365635788571907,"[Miền Bắc] Serum Dưỡng Da Căng Mướt, Sáng Khỏe & Phục Hồi Dấu Hiệu Lão Hóa OLAY REGENERIST 50ML",single,Regenerist,serum,anti_aging,0,50,1,428000,418000,1,1,0,Miền Bắc,32
+1734365625491817731,"[Miền Bắc] Combo 2: Kem Dưỡng Ẩm Ngày & Đêm Căng Mướt, Sáng Khỏe & Phục Hồi Dấu Hiệu Lão Hóa OLAY REGENERIST 50G X2",combo,Regenerist,combo,anti_aging,100,0,2,1198000,757000,1,1,0,Miền Bắc,33
+1734365651627902211,"[Miền Bắc] Combo 2: Kem Dưỡng Ẩm Ban Đêm + Serum OLAY REGENERIST Căng Mướt, Sáng Khỏe & Phục Hồi Dấu Hiệu Lão Hóa 50G + 50ML",combo,Regenerist,combo,anti_aging,50,50,2,1258000,795000,1,1,0,Miền Bắc,34
