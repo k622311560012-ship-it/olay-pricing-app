@@ -1,0 +1,20 @@
+snapshot_ts,date,loai_ngay,comp_product_id,competitor_brand,comp_product,need_group,comp_regular_price,comp_price,pct_change_vs_prev,huong,sku_olay_ghep
+2026-10-06 06:00:00,2026-10-06,BAU,C01,L'Oréal Paris,Revitalift Laser X3 Day Cream 50ml,anti_aging,389000,303000,-0.215,giảm giá,6
+2026-10-09 06:00:00,2026-10-09,BAU,C01,L'Oréal Paris,Revitalift Laser X3 Day Cream 50ml,anti_aging,389000,385000,0.2706,tăng giá / hết đợt giảm,6
+2026-10-11 00:00:00,2026-10-11,BAU,C01,L'Oréal Paris,Revitalift Laser X3 Day Cream 50ml,anti_aging,389000,390000,0.413,tăng giá / hết đợt giảm,6
+2026-10-11 00:00:00,2026-10-11,BAU,C02,L'Oréal Paris,Revitalift Laser X3 Night Cream 50ml,anti_aging,389000,390000,0.4391,tăng giá / hết đợt giảm,6
+2026-10-11 00:00:00,2026-10-11,BAU,C03,Pond's,Age Miracle Day Cream 50g,anti_aging,265000,267000,0.335,tăng giá / hết đợt giảm,6
+2026-10-11 06:00:00,2026-10-11,BAU,C03,Pond's,Age Miracle Day Cream 50g,anti_aging,265000,208000,-0.221,giảm giá,6
+2026-10-14 06:00:00,2026-10-14,BAU,C03,Pond's,Age Miracle Day Cream 50g,anti_aging,265000,266000,0.2913,tăng giá / hết đợt giảm,6
+2026-10-11 00:00:00,2026-10-11,BAU,C04,Pond's,Age Miracle Night Cream 50g,anti_aging,265000,265000,0.299,tăng giá / hết đợt giảm,6
+2026-10-11 06:00:00,2026-10-11,BAU,C04,Pond's,Age Miracle Night Cream 50g,anti_aging,265000,204000,-0.2302,giảm giá,6
+2026-10-14 06:00:00,2026-10-14,BAU,C04,Pond's,Age Miracle Night Cream 50g,anti_aging,265000,263000,0.2829,tăng giá / hết đợt giảm,6
+2026-10-11 00:00:00,2026-10-11,BAU,C05,L'Oréal Paris,Revitalift Hyaluronic Acid Serum 30ml,anti_aging,429000,428000,0.3049,tăng giá / hết đợt giảm,4
+2026-10-11 00:00:00,2026-10-11,BAU,C06,Some By Mi,Retinol Intense Reactivating Serum 30ml,anti_aging,395000,389000,0.3368,tăng giá / hết đợt giảm,4
+2026-10-11 00:00:00,2026-10-11,BAU,C07,Pond's,Bright Beauty Day Cream 50g,brightening,215000,214000,0.3631,tăng giá / hết đợt giảm,4
+2026-10-11 06:00:00,2026-10-11,BAU,C07,Pond's,Bright Beauty Day Cream 50g,brightening,215000,167000,-0.2196,giảm giá,4
+2026-10-14 06:00:00,2026-10-14,BAU,C07,Pond's,Bright Beauty Day Cream 50g,brightening,215000,213000,0.2831,tăng giá / hết đợt giảm,4
+2026-10-11 00:00:00,2026-10-11,BAU,C08,Hada Labo,Perfect White Cream 50g,brightening,235000,237000,0.4812,tăng giá / hết đợt giảm,4
+2026-10-11 00:00:00,2026-10-11,BAU,C09,L'Oréal Paris,Glycolic Bright Serum 30ml,brightening,379000,375000,0.3538,tăng giá / hết đợt giảm,2
+2026-10-11 00:00:00,2026-10-11,BAU,C10,Some By Mi,Galactomyces Pure Vitamin C Glow Serum 30ml,brightening,365000,364000,0.3893,tăng giá / hết đợt giảm,2
+2026-10-11 00:00:00,2026-10-11,BAU,C11,Hada Labo,Brightening Serum 30ml,brightening,265000,264000,0.3895,tăng giá / hết đợt giảm,2

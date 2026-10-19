@@ -1,0 +1,4 @@
+campaign_type,gia_sau_sv_vs_base_hien_trang,gia_sau_sv_vs_base_toi_uu_tu_do,gia_sau_sv_vs_base_toi_uu_guardrail,sv_hien_trang,sv_toi_uu_tu_do,sv_toi_uu_guardrail
+BAU,0.91,0.815,0.89,0.09,0.185,0.11
+CAMP,0.88,0.815,0.82,0.12,0.185,0.18
+DD,0.8607316451068849,0.8169788330426511,0.8166941776710684,0.1442,0.1825,0.175

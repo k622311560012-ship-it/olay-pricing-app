@@ -1,0 +1,97 @@
+sku_id,campaign_type,gia_hien_tai,gia_de_xuat,luong_ban_du_kien,loi_nhuan_du_kien,rang_buoc_cham,ly_do,seller_voucher_hien_tai,seller_voucher_de_xuat,gia_khach_tra_de_xuat
+1734365470027580675,BAU,380380,372020,24.42,2447032.0,guardrail,Voucher BAU không được vượt mức hiện tại +2 điểm % (11.0%); bản tự do muốn 19.0%.,0.09,0.11,319937
+1734365470027580675,CAMP,367840,340670,61.29,4855176.0,guardrail,"Chỉnh nhẹ từ 19.0% để giữ thang giá khách trả DD ≤ CAMP ≤ BAU (giá khách trả đổi +1,797đ).",0.12,0.185,292976
+1734365470027580675,DD,377313,339450,109.57,8589763.0,none,Tăng voucher từ 18.9% lên 27.0%: thêm đơn bù được phần biên lợi nhuận giảm.,0.1886,0.27,291927
+1734365577143747843,BAU,261170,255430,48.69,3309624.0,guardrail,Voucher BAU không được vượt mức hiện tại +2 điểm % (11.0%); bản tự do muốn 23.5%.,0.09,0.11,222224
+1734365577143747843,CAMP,252560,219555,157.55,6922164.0,none,Tăng voucher từ 12.0% lên 23.5%: thêm đơn bù được phần biên lợi nhuận giảm.,0.12,0.235,191013
+1734365577143747843,DD,258415,218790,282.02,12246168.0,none,Tăng voucher từ 9.7% lên 23.5%: thêm đơn bù được phần biên lợi nhuận giảm.,0.0965,0.235,190347
+1734365578740270339,BAU,516830,508190,20.25,2791994.0,guardrail,Voucher BAU không được vượt mức hiện tại +2 điểm % (11.5%); bản tự do muốn 12.4%.,0.0949,0.11,431962
+1734365578740270339,CAMP,501325,500000,41.22,5458089.0,none,"Đặt đúng ngưỡng VXP 500,000đ: TikTok trợ giá 15%, giá khách trả giảm mà brand không mất thêm.",0.122,0.124343,425000
+1734365578740270339,DD,490988,500000,72.92,9655993.0,none,"Đặt đúng ngưỡng VXP 500,000đ: TikTok trợ giá 15%, giá khách trả giảm mà brand không mất thêm.",0.1416,0.125874,425000
+1734365579424597251,BAU,204750,200250,10.87,572679.0,guardrail,Voucher BAU không được vượt mức hiện tại +2 điểm % (11.0%); bản tự do muốn 11.1%.,0.09,0.11,174218
+1734365579424597251,CAMP,198000,200000,21.07,1106480.0,none,"Đặt đúng ngưỡng VXP 200,000đ: TikTok trợ giá 13%, giá khách trả giảm mà brand không mất thêm.",0.12,0.111111,174000
+1734365579424597251,DD,202176,200000,36.59,1921945.0,none,"Đặt đúng ngưỡng VXP 200,000đ: TikTok trợ giá 13%, giá khách trả giảm mà brand không mất thêm.",0.1505,0.159664,174000
+1734365579784193283,BAU,204750,209250,18.42,1081566.0,none,Giảm voucher từ 9.0% xuống 7.0%: biên lợi nhuận tăng bù được phần đơn mất.,0.09,0.07,182048
+1734365579784193283,CAMP,198000,204750,37.47,2087723.0,guardrail,Voucher không được thấp hơn mức hiện tại quá 3 điểm % (≥ 9.0%); bản tự do muốn 7.0%.,0.12,0.09,178132
+1734365579784193283,DD,202176,204680,65.14,3626279.0,guardrail,"Chỉnh nhẹ từ 12.5% để giữ thang giá khách trả DD ≤ CAMP ≤ BAU (giá khách trả đổi -3,106đ).",0.1505,0.14,178072
+1734365581732054275,BAU,380380,372020,8.92,893625.0,guardrail,Voucher BAU không được vượt mức hiện tại +2 điểm % (11.0%); bản tự do muốn 13.0%.,0.09,0.11,319937
+1734365581732054275,CAMP,367840,363660,18.26,1728279.0,none,Tăng voucher từ 12.0% lên 13.0%: thêm đơn bù được phần biên lợi nhuận giảm.,0.12,0.13,312748
+1734365581732054275,DD,377313,362790,31.92,3002038.0,none,Tăng voucher từ 9.5% lên 13.0%: thêm đơn bù được phần biên lợi nhuận giảm.,0.0952,0.13,311999
+1734365584002745603,BAU,261170,255430,34.41,2338386.0,guardrail,Voucher BAU không được vượt mức hiện tại +2 điểm % (11.0%); bản tự do muốn 20.5%.,0.09,0.11,222224
+1734365584002745603,CAMP,252560,228165,94.69,4705390.0,none,Tăng voucher từ 12.0% lên 20.5%: thêm đơn bù được phần biên lợi nhuận giảm.,0.12,0.205,198504
+1734365584002745603,DD,258415,227370,169.33,8324187.0,none,Tăng voucher từ 9.7% lên 20.5%: thêm đơn bù được phần biên lợi nhuận giảm.,0.0965,0.205,197812
+1734365594367001859,BAU,380380,372020,10.64,1065932.0,guardrail,Voucher BAU không được vượt mức hiện tại +2 điểm % (11.0%); bản tự do muốn 21.5%.,0.09,0.11,319937
+1734365594367001859,CAMP,367840,328130,30.31,2146830.0,none,Tăng voucher từ 12.0% lên 21.5%: thêm đơn bù được phần biên lợi nhuận giảm.,0.12,0.215,282192
+1734365594367001859,DD,377313,327820,52.81,3728992.0,none,Tăng voucher từ 14.8% lên 26.0%: thêm đơn bù được phần biên lợi nhuận giảm.,0.1483,0.26,281925
+1734365609557853443,BAU,716895,703885,3.34,592331.0,guardrail,Voucher BAU không được vượt mức hiện tại +2 điểm % (15.9%); bản tự do muốn 18.5%.,0.1394,0.155,598302
+1734365609557853443,CAMP,716895,683060,7.02,1147336.0,guardrail,"Chỉnh nhẹ từ 18.5% để giữ thang giá khách trả DD ≤ CAMP ≤ BAU (giá khách trả đổi +3,540đ).",0.1394,0.18,580601
+1734365609557853443,DD,713122,680400,12.34,1992976.0,none,Tăng voucher từ 15.1% lên 19.0%: thêm đơn bù được phần biên lợi nhuận giảm.,0.151,0.19,578340
+1734365611330143491,BAU,380380,392920,22.11,2525592.0,guardrail,Voucher không được thấp hơn mức hiện tại quá 3 điểm % (≥ 6.0%); bản tự do muốn 3.5%.,0.09,0.06,337911
+1734365611330143491,CAMP,367840,380380,45.9,4857851.0,guardrail,Voucher không được thấp hơn mức hiện tại quá 3 điểm % (≥ 9.0%); bản tự do muốn 3.5%.,0.12,0.09,327127
+1734365611330143491,DD,377313,379470,80.16,8434214.0,guardrail,Voucher không được thấp hơn mức hiện tại quá 3 điểm % (≥ 6.5%); bản tự do muốn 3.0%.,0.0952,0.09,326344
+1734365612874433795,BAU,380380,372020,17.5,1754454.0,guardrail,Voucher BAU không được vượt mức hiện tại +2 điểm % (11.0%); bản tự do muốn 17.0%.,0.09,0.11,319937
+1734365612874433795,CAMP,367840,346940,41.1,3428709.0,none,Tăng voucher từ 12.0% lên 17.0%: thêm đơn bù được phần biên lợi nhuận giảm.,0.12,0.17,298368
+1734365612874433795,DD,377313,346860,71.44,5955571.0,none,Tăng voucher từ 10.8% lên 18.0%: thêm đơn bù được phần biên lợi nhuận giảm.,0.108,0.18,298300
+1734365615002977539,BAU,380380,418000,16.36,2143536.0,inventory,Thiếu hàng [Miền Bắc] Kem Dưỡng Ẩm Ban Đêm OLAY RET… trước ngày hàng về: giảm voucher còn 0.0% từ 01/10 đến 11/10 để giãn hàng; sau đó về mức guardrail 11.0%.,0.09,0.0,359480
+1734365615002977539,CAMP,367840,328130,67.65,4790842.0,none,Tăng voucher từ 12.0% lên 21.5%: thêm đơn bù được phần biên lợi nhuận giảm.,0.12,0.215,282192
+1734365615002977539,DD,377313,417000,56.7,7392043.0,inventory,Thiếu hàng [Miền Bắc] Kem Dưỡng Ẩm Ban Đêm OLAY RET… trước ngày hàng về: giảm voucher còn 0.0% từ 01/10 đến 11/10 để giãn hàng; sau đó về mức guardrail 21.5%.,0.0952,0.0,358620
+1734365616006989059,BAU,345800,338200,16.19,1470835.0,guardrail,Voucher BAU không được vượt mức hiện tại +2 điểm % (11.0%); bản tự do muốn 13.0%.,0.09,0.11,290852
+1734365616006989059,CAMP,334400,332500,32.89,2862857.0,guardrail,"Chỉnh nhẹ từ 13.0% để giữ thang giá khách trả DD ≤ CAMP ≤ BAU (giá khách trả đổi +1,634đ).",0.12,0.125,285950
+1734365616006989059,DD,342950,331705,58.54,5064932.0,none,Tăng voucher từ 15.7% lên 18.5%: thêm đơn bù được phần biên lợi nhuận giảm.,0.1574,0.185,285266
+1734365625491817731,BAU,685899,673730,19.91,3658249.0,guardrail,Voucher BAU không được vượt mức hiện tại +2 điểm % (11.4%); bản tự do muốn 18.0%.,0.0939,0.11,572670
+1734365625491817731,CAMP,665322,620740,48.79,7230704.0,none,Tăng voucher từ 12.1% lên 18.0%: thêm đơn bù được phần biên lợi nhuận giảm.,0.1211,0.18,527629
+1734365625491817731,DD,651604,617010,87.79,12791850.0,guardrail,"Chỉnh nhẹ từ 21.0% để giữ thang giá khách trả DD ≤ CAMP ≤ BAU (giá khách trả đổi -3,341đ).",0.171,0.215,524458
+1734365630081631491,BAU,811060,795400,15.78,3837739.0,guardrail,Voucher BAU không được vượt mức hiện tại +2 điểm % (3.1%); bản tự do muốn 18.5%.,0.0109,0.03,676090
+1734365630081631491,CAMP,795900,668300,50.3,7948350.0,none,Tăng voucher từ 2.9% lên 18.5%: thêm đơn bù được phần biên lợi nhuận giảm.,0.0294,0.185,568055
+1734365630081631491,DD,686585,666120,89.81,14061393.0,none,Tăng voucher từ 6.2% lên 9.0%: thêm đơn bù được phần biên lợi nhuận giảm.,0.062,0.09,566202
+1734365630523081987,BAU,888761,872200,13.78,3289045.0,guardrail,Voucher BAU không được vượt mức hiện tại +2 điểm % (11.3%); bản tự do muốn 18.5%.,0.0931,0.11,741370
+1734365630523081987,CAMP,862098,803600,33.54,6462844.0,guardrail,"Chỉnh nhẹ từ 18.5% để giữ thang giá khách trả DD ≤ CAMP ≤ BAU (giá khách trả đổi +4,165đ).",0.1203,0.18,683060
+1734365630523081987,DD,844323,800250,58.95,11226702.0,none,Tăng voucher từ 13.0% lên 17.5%: thêm đơn bù được phần biên lợi nhuận giảm.,0.1296,0.175,680212
+1734365631324980483,BAU,888761,872200,4.05,965606.0,guardrail,Voucher BAU không được vượt mức hiện tại +2 điểm % (11.3%); bản tự do muốn 18.5%.,0.0931,0.11,741370
+1734365631324980483,CAMP,862098,803600,9.85,1897393.0,guardrail,"Chỉnh nhẹ từ 18.5% để giữ thang giá khách trả DD ≤ CAMP ≤ BAU (giá khách trả đổi +4,165đ).",0.1203,0.18,683060
+1734365631324980483,DD,844323,800250,17.31,3295991.0,none,Tăng voucher từ 13.0% lên 17.5%: thêm đơn bù được phần biên lợi nhuận giảm.,0.1296,0.175,680212
+1734365631810274563,BAU,916650,896120,11.28,2627620.0,guardrail,Voucher BAU không được vượt mức hiện tại +2 điểm % (14.0%); bản tự do muốn 18.5%.,0.1203,0.14,761702
+1734365631810274563,CAMP,888300,854440,25.09,5143917.0,guardrail,"Chỉnh nhẹ từ 18.5% để giữ thang giá khách trả DD ≤ CAMP ≤ BAU (giá khách trả đổi +4,428đ).",0.1475,0.18,726274
+1734365631810274563,DD,869400,850030,45.03,9100797.0,none,Tăng voucher từ 14.6% lên 16.5%: thêm đơn bù được phần biên lợi nhuận giảm.,0.146,0.165,722526
+1734365635350004995,BAU,345800,338200,18.35,1667093.0,guardrail,Voucher BAU không được vượt mức hiện tại +2 điểm % (11.0%); bản tự do muốn 20.0%.,0.09,0.11,290852
+1734365635350004995,CAMP,334400,304000,49.11,3336712.0,none,Tăng voucher từ 12.0% lên 20.0%: thêm đơn bù được phần biên lợi nhuận giảm.,0.12,0.2,261440
+1734365635350004995,DD,342950,303200,87.56,5902878.0,none,Tăng voucher từ 9.5% lên 20.0%: thêm đơn bù được phần biên lợi nhuận giảm.,0.0951,0.2,260752
+1734365635788571907,BAU,380380,372020,22.22,2226592.0,guardrail,Voucher BAU không được vượt mức hiện tại +2 điểm % (11.0%); bản tự do muốn 21.0%.,0.09,0.11,319937
+1734365635788571907,CAMP,367840,330220,62.29,4498817.0,none,Tăng voucher từ 12.0% lên 21.0%: thêm đơn bù được phần biên lợi nhuận giảm.,0.12,0.21,283989
+1734365635788571907,DD,377313,329560,110.88,7958792.0,none,Tăng voucher từ 11.8% lên 23.0%: thêm đơn bù được phần biên lợi nhuận giảm.,0.1184,0.23,283422
+1734365637953225987,BAU,981890,960310,9.63,2533231.0,guardrail,Voucher BAU không được vượt mức hiện tại +2 điểm % (11.0%); bản tự do muốn 18.5%.,0.09,0.11,816264
+1734365637953225987,CAMP,949520,879385,24.0,5013028.0,none,Tăng voucher từ 12.0% lên 18.5%: thêm đơn bù được phần biên lợi nhuận giảm.,0.12,0.185,747477
+1734365637953225987,DD,927940,876420,42.87,8868288.0,guardrail,"Chỉnh nhẹ từ 18.5% để giữ thang giá khách trả DD ≤ CAMP ≤ BAU (giá khách trả đổi -4,599đ).",0.1424,0.19,744957
+1734365648063923459,BAU,1031981,1197603,6.06,2423906.0,inventory,Thiếu hàng [Miền Bắc] Kem Dưỡng Ẩm Ban Đêm OLAY RET… trước ngày hàng về: giảm voucher còn 0.0% từ 01/10 đến 11/10 để giãn hàng; sau đó về mức guardrail 12.5%.,0.1383,0.0,1017963
+1734365648063923459,CAMP,1000064,1035927,17.73,4888383.0,guardrail,Voucher không được thấp hơn mức hiện tại quá 3 điểm % (≥ 13.5%); bản tự do muốn 12.5%.,0.1649,0.135,880538
+1734365648063923459,DD,978786,1149000,23.42,8496386.0,inventory,Thiếu hàng [Miền Bắc] Kem Dưỡng Ẩm Ban Đêm OLAY RET… trước ngày hàng về: giảm voucher còn 0.0% từ 01/10 đến 11/10 để giãn hàng; sau đó về mức guardrail 12.0%.,0.1481,0.0,976650
+1734365648603088131,BAU,754626,833000,3.92,1032967.0,inventory,Thiếu hàng [Miền Bắc] Kem Dưỡng Ẩm Ban Đêm OLAY RET… trước ngày hàng về: giảm voucher còn 0.0% từ 01/10 đến 11/10 để giãn hàng; sau đó về mức guardrail 11.0%.,0.0941,0.0,708050
+1734365648603088131,CAMP,731987,683060,13.32,2176828.0,guardrail,"Chỉnh nhẹ từ 18.5% để giữ thang giá khách trả DD ≤ CAMP ≤ BAU (giá khách trả đổi +3,540đ).",0.1213,0.18,580601
+1734365648603088131,DD,716895,882000,11.46,3401287.0,inventory,Thiếu hàng [Miền Bắc] Kem Dưỡng Ẩm Ban Đêm OLAY RET… trước ngày hàng về: giảm voucher còn 0.0% từ 01/10 đến 11/10 để giãn hàng; sau đó về mức guardrail 23.0%.,0.1872,0.0,749700
+1734365651627902211,BAU,720263,707550,6.47,1248990.0,guardrail,Voucher BAU không được vượt mức hiện tại +2 điểm % (11.4%); bản tự do muốn 18.5%.,0.094,0.11,601418
+1734365651627902211,CAMP,698655,651900,15.85,2469149.0,guardrail,"Chỉnh nhẹ từ 18.5% để giữ thang giá khách trả DD ≤ CAMP ≤ BAU (giá khách trả đổi +3,379đ).",0.1212,0.18,554115
+1734365651627902211,DD,684250,649635,28.32,4368302.0,none,Tăng voucher từ 15.2% lên 19.5%: thêm đơn bù được phần biên lợi nhuận giảm.,0.1521,0.195,552190
+1734365658742424835,BAU,916650,896120,2.53,590214.0,guardrail,Voucher BAU không được vượt mức hiện tại +2 điểm % (14.0%); bản tự do muốn 18.5%.,0.1203,0.14,761702
+1734365658742424835,CAMP,888300,854440,5.64,1155415.0,guardrail,"Chỉnh nhẹ từ 18.5% để giữ thang giá khách trả DD ≤ CAMP ≤ BAU (giá khách trả đổi +4,428đ).",0.1475,0.18,726274
+1734365658742424835,DD,869400,850030,10.12,2044199.0,none,Tăng voucher từ 14.6% lên 16.5%: thêm đơn bù được phần biên lợi nhuận giảm.,0.146,0.165,722526
+1734365663560959235,BAU,998649,976100,7.69,1952675.0,guardrail,Voucher BAU không được vượt mức hiện tại +2 điểm % (14.0%); bản tự do muốn 18.5%.,0.1201,0.14,829685
+1734365663560959235,CAMP,967763,925025,17.4,3823461.0,none,Tăng voucher từ 14.7% lên 18.5%: thêm đơn bù được phần biên lợi nhuận giảm.,0.1473,0.185,786271
+1734365663560959235,DD,947172,922590,31.01,6763982.0,none,Tăng voucher từ 16.8% lên 19.0%: thêm đơn bù được phần biên lợi nhuận giảm.,0.1684,0.19,784202
+1734365664350340355,BAU,998649,976100,24.93,6333075.0,guardrail,Voucher BAU không được vượt mức hiện tại +2 điểm % (14.0%); bản tự do muốn 18.5%.,0.1201,0.14,829685
+1734365664350340355,CAMP,967763,925025,56.42,12400654.0,none,Tăng voucher từ 14.7% lên 18.5%: thêm đơn bù được phần biên lợi nhuận giảm.,0.1473,0.185,786271
+1734365664350340355,DD,947172,922130,100.7,21937705.0,guardrail,"Chỉnh nhẹ từ 16.5% để giữ thang giá khách trả DD ≤ CAMP ≤ BAU (giá khách trả đổi -4,722đ).",0.1475,0.17,783810
+1734365670060360963,BAU,1063898,1047903,4.19,1194316.0,none,Tăng voucher từ 11.2% lên 12.5%: thêm đơn bù được phần biên lợi nhuận giảm.,0.1116,0.125,890718
+1734365670060360963,CAMP,1031981,1047903,8.09,2307117.0,none,Giảm voucher từ 13.8% xuống 12.5%: biên lợi nhuận tăng bù được phần đơn mất.,0.1383,0.125,890718
+1734365670060360963,DD,1010703,1045750,14.14,4007296.0,guardrail,Voucher không được thấp hơn mức hiện tại quá 3 điểm % (≥ 11.0%); bản tự do muốn 10.5%.,0.1398,0.11,888888
+1734365709837698307,BAU,1031981,1047903,6.1,1737629.0,none,Giảm voucher từ 13.8% xuống 12.5%: biên lợi nhuận tăng bù được phần đơn mất.,0.1383,0.125,890718
+1734365709837698307,CAMP,1000064,1035927,12.16,3355053.0,guardrail,Voucher không được thấp hơn mức hiện tại quá 3 điểm % (≥ 13.5%); bản tự do muốn 12.5%.,0.1649,0.135,880538
+1734365709837698307,DD,978786,1011120,22.62,5807770.0,guardrail,Voucher không được thấp hơn mức hiện tại quá 3 điểm % (≥ 11.8%); bản tự do muốn 8.5%.,0.1481,0.12,859452
+1734569237822801155,BAU,492310,500000,19.04,2721558.0,none,"Đặt đúng ngưỡng VXP 500,000đ: TikTok trợ giá 15%, giá khách trả giảm mà brand không mất thêm.",0.09,0.075786,425000
+1734569237822801155,CAMP,476080,481490,39.5,5154346.0,guardrail,Voucher không được thấp hơn mức hiện tại quá 3 điểm % (≥ 9.0%); bản tự do muốn 7.6%.,0.12,0.11,414081
+1734569237822801155,DD,465260,481490,69.87,9118635.0,guardrail,Voucher không được thấp hơn mức hiện tại quá 3 điểm % (≥ 11.0%); bản tự do muốn 7.6%.,0.14,0.11,414081
+1734569240809145603,BAU,404352,395595,3.54,375295.0,guardrail,Voucher BAU không được vượt mức hiện tại +2 điểm % (11.5%); bản tự do muốn 17.5%.,0.0954,0.115,340212
+1734569240809145603,CAMP,392221,368775,8.35,733697.0,none,Tăng voucher từ 12.2% lên 17.5%: thêm đơn bù được phần biên lợi nhuận giảm.,0.1225,0.175,317146
+1734569240809145603,DD,384134,366520,14.75,1274380.0,guardrail,"Chỉnh nhẹ từ 22.5% để giữ thang giá khách trả DD ≤ CAMP ≤ BAU (giá khách trả đổi -2,047đ).",0.193,0.23,315207
+1734569267489441027,BAU,492310,500000,14.31,2045223.0,guardrail,"Voucher BAU không được vượt mức hiện tại +2 điểm % (11.0%); bản tự do muốn 25.5%. Trong vùng cho phép, đặt đúng ngưỡng VXP 500,000đ là tốt nhất.",0.09,0.075786,425000
+1734569267489441027,CAMP,476080,403045,56.3,4389493.0,none,Tăng voucher từ 12.0% lên 25.5%: thêm đơn bù được phần biên lợi nhuận giảm.,0.12,0.255,346619
+1734569267489441027,DD,465260,403045,99.61,7765523.0,none,Tăng voucher từ 14.0% lên 25.5%: thêm đơn bù được phần biên lợi nhuận giảm.,0.14,0.255,346619
